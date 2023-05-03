@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FavBet</string>
+        <string name="hello_world">Hello world!</string>
+        <string name="share">Share</string>
+        <string name="action_websearch">Web search</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="a">A</string>
+    <string name="A">A</string>
+    <string name="Android_developer">Android Developer</string>
+    <string name="FB">FB</string>
+    <string name="FavBet">Fav Bet</string>
+
+</resources>
